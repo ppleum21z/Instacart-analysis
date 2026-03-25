@@ -1,0 +1,6 @@
+*.pbix
+Raw_Data/
+Process_Data/
+catboost_info/
+__pycache__/
+.env
