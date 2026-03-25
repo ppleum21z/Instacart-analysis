@@ -1,5 +1,4 @@
-# Instacart Analytics: End-to-End Data Science & AI Project
-
+# Instacart Analytics: End-to-End Data Science & Data analysis
 **A comprehensive, end-to-end data project covering Data Analytics, Predictive Machine Learning, and Generative AI to extract actionable business insights from Instacart's 3 million+ grocery basket dataset.**
 
 
