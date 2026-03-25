@@ -5,6 +5,13 @@
 
 ---
 
+### Data Source
+The dataset used in this project is the public **Instacart Market Basket Analysis** dataset from Kaggle. It contains anonymized data of over 3 million grocery orders from more than 200,000 Instacart users.
+- **Source:** [Instacart Market Basket Analysis (Kaggle)](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
+- **Data includes:** Order details, product information, aisles/departments, and the sequence of products added to the cart.
+  
+---
+
 ## Project Overview & Key Features
 
 This project is divided into 4 main pillars to solve real-world e-commerce challenges:
@@ -28,7 +35,9 @@ This project is divided into 4 main pillars to solve real-world e-commerce chall
 - **Tech Stack:** `Python`, `LLM APIs`, 
 - **Security:** API keys are strictly managed via a `.env` file (excluded from GitHub via `.gitignore`) to ensure enterprise-level security standards.
 - **[Try the live AI Agent demo here](https://huggingface.co/spaces/fighter21z/Instacart-AIAgent)**
-  
+
+---
+
 ## Tech Stack & Tools
 - **Data Manipulation:** Python (Pandas, NumPy, Polars)
 - **Machine Learning:** LightGBM, XGBoost, CatBoost
