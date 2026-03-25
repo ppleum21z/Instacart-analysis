@@ -1,4 +1,4 @@
-# Instacart Analytics: End-to-End Data Science & AI Project
+<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/35ef4dc4-5947-42f9-aaf5-225cf43eea47" /># Instacart Analytics: End-to-End Data Science & AI Project
 
 **A comprehensive, end-to-end data project covering Data Analytics, Predictive Machine Learning, and Generative AI to extract actionable business insights from Instacart's 3 million+ grocery basket dataset.**
 
@@ -7,7 +7,7 @@
 
 ### Data Source
 The dataset used in this project is the public **Instacart Market Basket Analysis** dataset from Kaggle. It contains anonymized data of over 3 million grocery orders from more than 200,000 Instacart users.
-- **Source:** [Instacart Market Basket Analysis (Kaggle)](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
+- **Source:** [Instacart Market Basket Analysis (Kaggle)](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 - **Data includes:** Order details, product information, aisles/departments, and the sequence of products added to the cart.
   
 ---
