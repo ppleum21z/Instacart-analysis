@@ -1,4 +1,4 @@
-<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/35ef4dc4-5947-42f9-aaf5-225cf43eea47" /># Instacart Analytics: End-to-End Data Science & AI Project
+# Instacart Analytics: End-to-End Data Science & AI Project
 
 **A comprehensive, end-to-end data project covering Data Analytics, Predictive Machine Learning, and Generative AI to extract actionable business insights from Instacart's 3 million+ grocery basket dataset.**
 
